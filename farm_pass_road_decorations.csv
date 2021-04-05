@@ -1,0 +1,7 @@
+Name,FileName,ExportName
+String,String,String
+Start,sc/farmpass.sc,fp_path_background_start
+Background01,sc/farmpass.sc,fp_path_background01
+Background02,sc/farmpass.sc,fp_path_background02
+Background03,sc/farmpass.sc,fp_path_background03
+End,sc/farmpass.sc,fp_path_background_end
